@@ -7,9 +7,23 @@ body {
     padding: 0;
 }
 
+#cabecera {
+    background: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 1px 7px 15px -4px rgba(0, 0, 0, 0.75);
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
 #container {
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 3px solid rgb(14, 133, 200);
     margin: 0 auto;
