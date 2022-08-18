@@ -24,10 +24,9 @@ body {
 
 #container {
     width: 70%;
-    padding: 2em;
     text-align: left;
-    border-top: 3px solid rgb(14, 133, 200);
-    border-right: 3px solid rgb(55, 35, 228);
+    border-top: 3px solid rgb(55, 35, 228);
+    border-right: 3px solid rgb(14, 133, 200);
     border-bottom: 3px solid rgb(44, 3, 139);
     border-left: 3px solid rgb(163, 14, 200);
     margin: 0 auto;
