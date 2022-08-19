@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(3, 131, 114);
+    color: rgb(189, 14, 66);
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -30,6 +30,7 @@ body {
     border-bottom: 3px solid rgb(44, 3, 139);
     border-left: 3px solid rgb(163, 14, 200);
     margin: 0 auto;
+    padding: 0 10px 10px 10px;
 }
 
 #container h1 {
