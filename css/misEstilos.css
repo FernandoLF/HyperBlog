@@ -30,10 +30,16 @@ body {
     border-bottom: 3px solid rgb(44, 3, 139);
     border-left: 3px solid rgb(163, 14, 200);
     margin: 0 auto;
-    padding: 0 10px 10px 10px;
 }
 
 #container h1 {
     font-size: 20px;
     color: rgb(2, 138, 97);
+}
+
+#footer {
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
